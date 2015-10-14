@@ -1,5 +1,6 @@
 getdns API
 ==========
+TODO: Update with changes for Windows
 
 * Date:    2015-09-04
 * GitHub:  <https://github.com/getdnsapi/getdns>
